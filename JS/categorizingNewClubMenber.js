@@ -44,7 +44,7 @@ const damiDays = [
 ];
 
 const damilolaDaysOnEarth = () => {
-	const damiNew = damiDays.filter((day) => day.unsafe !== true);
+	 const damiNew = damiDays.filter((day) => day.unsafe !== true);
 	return damiNew;
 };
 

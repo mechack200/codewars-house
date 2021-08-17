@@ -1,5 +1,8 @@
 let em_list = [1, 2, 3];
 const wages_checker = () => {
+	while (em_list.length <= 10){
+     name=
+	}
 	console.log(em_list.length);
 };
 console.log('wages checker');
